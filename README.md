@@ -8,5 +8,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ![image](https://github.com/user-attachments/assets/7f5bbb25-15b1-4989-a8b6-40a02e01d49f)
 
 1.Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+
 2.Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+
 3.Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
